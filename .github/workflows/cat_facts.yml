@@ -1,0 +1,19 @@
+name: Daily Cat Fact
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Python Script
+      run: |
+        python script.py  # Replace with the filename of your script
+      env:
+        PYTHON_VERSION: 3.x  # Specify Python version if needed
