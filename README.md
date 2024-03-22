@@ -7,11 +7,19 @@
 
   📫 How to reach me:  
   Mail me at "venezia.m@northeastern.edu" 
+  
+**Fun Cat Fact :** Cats have five toes on their front paws, but only four on their back ones!
 
-
-### Daily Cat Fact 🐱
-Did you know?
-**Cat Fact of the Day:** formatted_fact
+                      /^--^\     /^--^\     /^--^\
+                      \____/     \____/     \____/
+                     /      \   /      \   /      \
+                    |        | |        | |        |
+                     \__  __/   \__  __/   \__  __/
+|^|^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^|^|^|
+| | | | | | | | | | | | |\ \| | |/ /| | | | | | \ \ | | | | | | | | | | |
+########################/ /######\ \###########/ /#######################
+| | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | |
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
