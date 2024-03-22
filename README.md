@@ -10,7 +10,7 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://animechan.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
