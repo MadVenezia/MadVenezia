@@ -9,8 +9,9 @@
   Mail me at "venezia.m@northeastern.edu" 
 
 
-### ✍️Random Dev Quote
-![](https://cat-fact.herokuapp.com/facts)
+### Daily Cat Fact 🐱
+Did you know?
+**Cat Fact of the Day:** Cats have five toes on their front paws, but only four on their back ones!
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
