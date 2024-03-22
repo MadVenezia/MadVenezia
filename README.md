@@ -11,7 +11,7 @@
 
 ### Daily Cat Fact 🐱
 Did you know?
-**Cat Fact of the Day:** Cats have five toes on their front paws, but only four on their back ones!
+**Cat Fact of the Day:** formatted_fact
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
