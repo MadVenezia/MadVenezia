@@ -2,6 +2,7 @@
   
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/MadVenezia
+if you have ideas lmk!!
   
 🌱 I’m currently learning : Memory based attacks
 
