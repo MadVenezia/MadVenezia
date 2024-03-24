@@ -2,7 +2,6 @@
   
 # 💫About Me :
 🔭 I’m currently working on my github page : webcrawler
-if you have ideas lmk!!
   
 🌱 I’m currently learning : Memory based attacks
 
