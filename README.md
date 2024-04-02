@@ -40,5 +40,5 @@
 - 💬 Ask me about Cybersecurity
 - 📫 How to reach me: Venezia.m@northeastern.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: currently playing Lethal Company
--->
+- ⚡ Fun fact: currently playing Fortnite
+
